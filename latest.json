@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.0.0",
+  "latestVersion": "2.0.1",
   "downloadUrl": "https://pan.baidu.com/s/1dd7Ul9-_9VGpihPmAeJOBQ?pwd=7288",
   "releaseNotes": "发布第2代内测安装包，支持 AI 任务文件生成、AI 回复解析、自动编译测试等基础功能。",
   "forceUpdate": false,
