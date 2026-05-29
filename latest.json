@@ -1,10 +1,10 @@
 {
   "latestVersion": "2.0.0",
   "minSupportedVersion": "2.0.0",
-  "downloadUrl": "https://pan.baidu.com/s/1dd7Ul9-_9VGpihPmAeJOBQ?pwd=7288",
+  "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223096416616&type=file",
   "releaseNotes": "发布第2代内测安装包，支持 AI 任务文件生成、AI 回复解析、自动编译测试等基础功能。",
   "forceUpdate": false,
-  "serviceEnabled": true,
+  "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
   "publishedAt": "2026-05-29"
 }
