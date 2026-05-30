@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.1.0",
-  "minSupportedVersion": "2.1.0",
+  "latestVersion": "2.2.0",
+  "minSupportedVersion": "2.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
   "releaseNotes": "增强了AI对任务的理解能力。",
   "forceUpdate": false,
