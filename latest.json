@@ -2,7 +2,7 @@
   "latestVersion": "2.1.0",
   "minSupportedVersion": "2.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "增强了AI对任务的理解能力。",
+  "releaseNotes": "增强了AI对任务的理解能力。安装包在钉盘",
   "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
