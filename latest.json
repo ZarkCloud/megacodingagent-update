@@ -2,7 +2,7 @@
   "latestVersion": "2.1.0",
   "minSupportedVersion": "2.1.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "发布第2代内测安装包，支持 AI 任务文件生成、AI 回复解析、自动编译测试等基础功能。",
+  "releaseNotes": "增强了AI对任务的理解能力。",
   "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
