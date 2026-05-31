@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.4.1",
+  "latestVersion": "2.4.2",
   "minSupportedVersion": "2.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "升级了AI回复异常时的训练按钮，报错数量统计功能和其他优化与BUG修复，建议升级，需登录钉钉，安装包在钉盘",
+  "releaseNotes": "恶性BUG修复，建议升级，需登录钉钉，安装包在钉盘",
   "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
