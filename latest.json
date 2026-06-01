@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.4.3",
+  "latestVersion": "2.5.0",
   "minSupportedVersion": "2.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "BUG修复和功能升级，建议升级，需登录钉钉，安装包在钉盘",
+  "releaseNotes": "用户设置方面优化，需登录钉钉，安装包在钉盘",
   "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
-  "publishedAt": "2026-05-31"
+  "publishedAt": "2026-06-01"
 }
