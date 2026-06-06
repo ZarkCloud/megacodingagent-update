@@ -3,7 +3,7 @@
   "minSupportedVersion": "1.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
   "releaseNotes": "重要更新，增加了针对大型项目的解决方案，用户设置方面优化。需登录钉钉，复制链接，会自动弹窗，安装包在钉盘",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
   "publishedAt": "2026-06-06"
