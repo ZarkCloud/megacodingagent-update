@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.5.0",
+  "latestVersion": "3.0.1",
   "minSupportedVersion": "2.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "用户设置方面优化，需登录钉钉，安装包在钉盘",
-  "forceUpdate": false,
+  "releaseNotes": "重要更新，增加了针对大型项目的解决方案。用户设置方面优化。本次为强制更新，需登录钉钉，安装包在钉盘",
+  "forceUpdate": true,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
   "publishedAt": "2026-06-01"
