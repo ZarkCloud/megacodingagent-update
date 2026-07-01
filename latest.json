@@ -1,5 +1,5 @@
 {
-  "latestVersion": "3.1.0",
+  "latestVersion": "4.1.0",
   "minSupportedVersion": "1.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
   "releaseNotes": "重要更新，增加了全自动工作模式，您只需要输入需求，后续工作全部自动完成；新版本安装后，建议在设置中恢复默认配置；如果还想用旧的工作模式，请选择手动模式。需登录钉钉，复制链接，会自动弹出新版本下载页面",
