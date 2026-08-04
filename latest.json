@@ -1,9 +1,9 @@
 {
-  "latestVersion": "4.11.0",
+  "latestVersion": "4.11.2",
   "minSupportedVersion": "1.0.0",
   "validEndDate": "2026-09-30",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "BUG修复和全自动模式改进。需登录钉钉，复制链接，会自动弹出新版本下载页面",
+  "releaseNotes": "全自动模式体验方面升级。需登录钉钉，复制链接，会自动弹出新版本下载页面",
   "forceUpdate": false,
   "aiToolPersonalizationUpdateEnabled": false,
   "aiToolPersonalizationDownloadUrl": "https://raw.githubusercontent.com/ZarkCloud/megacodingagent-update/refs/heads/main/AiToolPersonalization.json",
